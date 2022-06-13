@@ -1,46 +1,53 @@
 body {
     font-size: 16px;
-   
+
     margin: 0;
     font-family: 'Karla', sans-serif;
 
 }
-#top{
+
+#top {
     padding: 40px;
 }
-p{
+
+p {
     width: fit-content;
 }
 
 h4 {
-    /* width: fit-content; */
+
     color: white;
-    /* font-size: 30px; */
-   
+
+
 }
-#heading{
+
+#heading {
     color: hsl(179, 62%, 43%);
 }
+
 #yellow {
     color: hsl(71, 73%, 54%);
 }
-#gray{
+
+#gray {
     color: hsl(218, 22%, 67%);
 }
 
 
 
 .fee {
-  /* width: fit-content; */
+    /* width: fit-content; */
     color: rgb(234, 226, 215);
 
 }
-#light{
-    color:hsl(204, 43%, 93%);
+
+#light {
+    color: hsl(204, 43%, 93%);
 }
+
 #full-access {
-    
-   
+
+
     color: whitesmoke;
     /* width: 300px; */
 }
@@ -53,59 +60,40 @@ h4 {
 }
 
 
-/*.lower{
-    display: block;
- 
-    margin-top: 50px;
-    @media (min-width:768px) {
-        display: grid;
-        grid-template-columns:  1fr ;
-       
-         column-gap: 0;
-    }
-  
-}
-.box {
-    
-
-    font-size: xx-large;
-    color: white;
-
-    padding: 150px;
-  
-
-    
-}
-*/
 
 
 
-#first { 
-  
-    padding:100px 40px 60px 170px;
+
+
+
+#first {
+
+    padding: 100px 40px 60px 170px;
     background-color: hsl(179, 62%, 43%);
-    /* font-size: larger; */
-   
-    
+
+
+
 }
-p{ 
+
+p {
     margin-top: 5px;
 }
+
 #second {
-   
-   
-    padding:100px 0px 60px 200px;
+
+
+    padding: 100px 0px 60px 200px;
 
     background-color: hsl(179, 45%, 54%);
-    
-    /* font-size: larger; */
-   
+
+
+
 }
 
-.btn{
-    margin-top:30px ;
+.btn {
+    margin-top: 30px;
     height: 65px;
-  width: 300px;
+    width: 300px;
     background-color: hsl(71, 73%, 54%);
-    
+
 }
